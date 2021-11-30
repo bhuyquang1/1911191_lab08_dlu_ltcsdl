@@ -1,0 +1,7 @@
+D:\Programming\1911191_Lab08\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Programming\1911191_Lab08\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Programming\1911191_Lab08\BusinessLogic\bin\Debug\DataAccess.dll
+D:\Programming\1911191_Lab08\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\Programming\1911191_Lab08\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Programming\1911191_Lab08\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Programming\1911191_Lab08\BusinessLogic\obj\Debug\BusinessLogic.pdb

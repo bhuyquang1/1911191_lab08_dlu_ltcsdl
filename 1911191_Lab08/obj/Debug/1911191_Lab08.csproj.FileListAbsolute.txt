@@ -1,0 +1,13 @@
+D:\Programming\1911191_Lab08\1911191_Lab08\obj\Debug\1911191_Lab08.csprojResolveAssemblyReference.cache
+D:\Programming\1911191_Lab08\1911191_Lab08\obj\Debug\_1911191_Lab08.frmMain.resources
+D:\Programming\1911191_Lab08\1911191_Lab08\obj\Debug\_1911191_Lab08.Properties.Resources.resources
+D:\Programming\1911191_Lab08\1911191_Lab08\obj\Debug\1911191_Lab08.csproj.GenerateResource.Cache
+D:\Programming\1911191_Lab08\1911191_Lab08\bin\Debug\1911191_Lab08.exe.config
+D:\Programming\1911191_Lab08\1911191_Lab08\bin\Debug\1911191_Lab08.exe
+D:\Programming\1911191_Lab08\1911191_Lab08\bin\Debug\1911191_Lab08.pdb
+D:\Programming\1911191_Lab08\1911191_Lab08\bin\Debug\BusinessLogic.dll
+D:\Programming\1911191_Lab08\1911191_Lab08\bin\Debug\DataAccess.dll
+D:\Programming\1911191_Lab08\1911191_Lab08\bin\Debug\BusinessLogic.pdb
+D:\Programming\1911191_Lab08\1911191_Lab08\bin\Debug\DataAccess.pdb
+D:\Programming\1911191_Lab08\1911191_Lab08\obj\Debug\1911191_Lab08.exe
+D:\Programming\1911191_Lab08\1911191_Lab08\obj\Debug\1911191_Lab08.pdb

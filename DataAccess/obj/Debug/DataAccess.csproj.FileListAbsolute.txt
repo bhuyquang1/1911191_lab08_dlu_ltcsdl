@@ -1,0 +1,4 @@
+D:\Programming\1911191_Lab08\DataAccess\bin\Debug\DataAccess.dll
+D:\Programming\1911191_Lab08\DataAccess\bin\Debug\DataAccess.pdb
+D:\Programming\1911191_Lab08\DataAccess\obj\Debug\DataAccess.dll
+D:\Programming\1911191_Lab08\DataAccess\obj\Debug\DataAccess.pdb
